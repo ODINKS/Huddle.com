@@ -242,7 +242,7 @@ footer img {
 .logo-footer {
     width: 9em;
     height: 1.4em;
-    color: white;
+    filter: brightness(0) invert(1);
 }
 
 .footer-contact {
